@@ -2,6 +2,8 @@
 ![](https://github.com/vote-by-mail/election-official-data/workflows/Python%20CI/badge.svg)
 ![](https://github.com/vote-by-mail/election-official-data/workflows/Public%20data/badge.svg)
 
+This repo has now moved to [vote-by-mail/election-official-data](https://github.com/vote-by-mail/election-official-data).  This archived version is maintained but will be deleted shortly.
+
 This repo collects information by locale (county or town) from critical swing states for [MailMyBallot.org](https://mailmyballot.org).  Code for each state is under the state's name.
 
 ## Getting Started
